@@ -77,5 +77,3 @@ A realistic snooker game simulation built with p5.js and Matter.js physics engin
 
 1. Clone or download this repository
 2. Open `index.html` in a web browser (requires internet connection for p5.js and Matter.js libraries)
-
-## File Structure
